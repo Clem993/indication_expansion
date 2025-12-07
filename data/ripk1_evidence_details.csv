@@ -1,0 +1,27 @@
+indication_name,evidence_type,evidence_source,evidence_summary,pubmed_id,confidence
+Amyotrophic Lateral Sclerosis,Clinical Trial,ClinicalTrials.gov,Phase 2 trial of SAR443820 (DNL788) in ALS patients evaluating safety and biomarker changes,NCT05237284,High
+Amyotrophic Lateral Sclerosis,Genetic,Nature Neuroscience,OPTN mutations in familial ALS lead to RIPK1-dependent motor neuron degeneration,28886015,High
+Amyotrophic Lateral Sclerosis,Preclinical,Cell Reports,RIPK1 kinase inhibition rescues motor neuron death in SOD1-G93A mice,29262319,High
+Amyotrophic Lateral Sclerosis,Gene Expression,Brain,Elevated RIPK1 and pS166-RIPK1 detected in ALS patient spinal cord tissue,31038167,High
+Multiple Sclerosis,Clinical Trial,ClinicalTrials.gov,Phase 2 trial of SAR443820 in relapsing MS patients,NCT05532072,High
+Multiple Sclerosis,Pathology,Acta Neuropathologica,RIPK1 activation observed in chronic active MS lesions,31006067,High
+Multiple Sclerosis,Preclinical,Nature Medicine,RIPK1 inhibition reduces oligodendrocyte death in EAE mouse model,28628108,High
+Multiple Sclerosis,Gene Expression,Brain,Upregulated necroptosis pathway genes in MS white matter lesions,30281089,Medium
+Alzheimer's Disease,Pathology,Cell Reports,Activated RIPK1 detected in microglia from AD patient brains,28746872,High
+Alzheimer's Disease,Preclinical,Nature Neuroscience,RIPK1 mediates synapse loss through microglial activation in APP/PS1 mice,31235908,High
+Alzheimer's Disease,GWAS,Nature Genetics,RIPK1 pathway genes associated with AD risk in GWAS meta-analysis,30820047,Medium
+Alzheimer's Disease,Biomarker,Alzheimer's Research & Therapy,Elevated necroptosis markers in AD patient CSF correlate with disease severity,33059726,Medium
+Ulcerative Colitis,Clinical Trial,ClinicalTrials.gov,Phase 2 trial of SAR443122 (DNL758) in moderate-severe UC,NCT05588843,High
+Ulcerative Colitis,Pathology,Gut,Intestinal epithelial RIPK1 activation in UC patient biopsies,30472680,High
+Ulcerative Colitis,Preclinical,Nature Communications,RIPK1 inhibition protects against DSS-induced colitis in mice,29784949,High
+Ulcerative Colitis,Gene Expression,Inflammatory Bowel Diseases,Necroptosis gene signature elevated in UC vs healthy colon,29462389,Medium
+Rheumatoid Arthritis,Clinical Trial,Arthritis Research & Therapy,Phase 2 trial of GSK2982772 in moderate-severe RA showed safety but limited efficacy,33766067,High
+Rheumatoid Arthritis,Pathology,Annals of Rheumatic Diseases,RIPK1-dependent death of synovial fibroblasts in RA tissue,31092406,Medium
+Rheumatoid Arthritis,Preclinical,Journal of Clinical Investigation,RIPK1 kinase inhibition reduces joint inflammation in CIA mouse model,30530965,High
+Rheumatoid Arthritis,Gene Expression,Arthritis & Rheumatology,TNF-RIPK1 pathway genes upregulated in RA synovium,29682869,Medium
+Psoriasis,Clinical Trial,ClinicalTrials.gov,Phase 2b trial of GSK2982772 at higher dose in plaque psoriasis,NCT04316585,High
+Psoriasis,Pathology,Journal of Investigative Dermatology,Keratinocyte necroptosis markers elevated in psoriatic skin,30980847,Medium
+Psoriasis,Preclinical,Nature Communications,RIPK1 inhibition reduces IMQ-induced psoriasis in mice,31073170,Medium
+Parkinson's Disease,Pathology,PNAS,Activated RIPK1 detected in substantia nigra of PD patients,31015303,High
+Parkinson's Disease,Preclinical,Cell Death & Disease,RIPK1 inhibition protects dopaminergic neurons in MPTP mouse model,30944297,High
+Parkinson's Disease,Genetic,Brain,LRRK2 mutations may promote RIPK1-dependent neuronal death,31365051,Medium
